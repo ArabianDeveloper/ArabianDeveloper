@@ -1,5 +1,5 @@
 # Hi there, I'm ArabianDeveloper 👋
-### Full-Stack Developer | Python & Django Enthusiast
+### Backend Developer | Python & Django Enthusiast
 
 Welcome to my GitHub profile! I am a passionate software developer focused on building robust, scalable, and user-friendly web applications. I specialize in backend development with Python and Django, while also crafting responsive and interactive frontends.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate software developer focused on bu
 - 🔭 I’m currently building full-stack web applications and exploring advanced backend architectures.
 - 🌱 I’m constantly learning and improving my skills in **Python, Django, JavaScript, and Database Management**.
 - 💡 I enjoy turning complex database and routing problems into clean, efficient, and maintainable code.
-- 📫 How to reach me: **[Insert your email address or LinkedIn link here]**
+- 📫 How to reach me: **arabiandeveloper92@gmail.com**
 
 ---
 
