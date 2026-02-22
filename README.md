@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I am a passionate software developer focused on bu
 
 ## 🛠️ Tech Stack & Tools
 
-* **Languages:** Python, JavaScript, HTML5, CSS3 / SCSS, SQL
-* **Frameworks:** Django
+* **Languages:** Python, JavaScript, HTML5, CSS3 / SQL
+* **Frameworks:** Django, n8n
 * **Databases:** SQLite, Relational Database Management Systems
 * **Tools & Version Control:** Git, GitHub, VS Code
 
@@ -35,11 +35,3 @@ Here is a quick look at some of the web applications and tools I've built:
     An e-commerce web application demonstrating product catalogs, media management, and core Django backend logic.
 * **DBMS** 🗄️
     A Python-based Database Management System that automates SQL query execution and handles robust data processing.
-
----
-
-## 📊 GitHub Stats
-
-![ArabianDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArabianDeveloper&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff&bg_color=0d1117)
-
-*(Note: The stats card above will automatically update based on your GitHub activity!)*
